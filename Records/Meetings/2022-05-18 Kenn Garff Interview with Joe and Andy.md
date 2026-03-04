@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Kenn Garff
 role: participant
 participants:
-  - Tyler Doermann
   - Joe
   - Andy
 tags:

@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: TSTC
 role: participant
 participants:
-  - Tyler Doermann
   - Jose
 tags:
   - keep-import

@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Veras
 role: participant
 participants:
-  - Tyler Doermann
   - Ashley
 tags:
   - keep-import

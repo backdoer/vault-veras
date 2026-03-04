@@ -6,7 +6,6 @@ meeting-type: interview
 company-name: Veras
 role: participant
 participants:
-  - Tyler Doermann
   - Austin Phillips
 tags:
   - keep-import

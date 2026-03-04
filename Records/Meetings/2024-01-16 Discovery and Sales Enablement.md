@@ -5,8 +5,6 @@ date: 2024-01-16
 meeting-type: internal-meeting
 company-name: Veras
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

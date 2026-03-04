@@ -5,7 +5,6 @@ date: 2024-02-23
 meeting-type: customer-call
 role: participant
 participants:
-  - Tyler Doermann
   - Roz
 tags:
   - keep-import

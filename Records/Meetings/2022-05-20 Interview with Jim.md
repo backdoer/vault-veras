@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Stanbridge University
 role: participant
 participants:
-  - Tyler Doermann
   - Jim
 tags:
   - keep-import

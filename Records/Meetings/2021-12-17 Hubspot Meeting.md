@@ -5,8 +5,6 @@ date: 2021-12-17
 meeting-type: vendor-call
 company-name: HubSpot
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

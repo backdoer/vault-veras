@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: DTC
 role: participant
 participants:
-  - Tyler Doermann
   - Owen
 tags:
   - keep-import

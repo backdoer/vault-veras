@@ -5,8 +5,6 @@ date: 2025-12-15
 meeting-type: all-hands
 company-name: Veras
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

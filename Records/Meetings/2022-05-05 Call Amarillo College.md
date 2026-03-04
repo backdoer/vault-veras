@@ -5,8 +5,6 @@ date: 2022-05-05
 meeting-type: customer-call
 company-name: Amarillo College
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

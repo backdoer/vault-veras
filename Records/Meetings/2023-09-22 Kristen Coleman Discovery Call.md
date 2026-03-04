@@ -5,7 +5,6 @@ date: 2023-09-22
 meeting-type: discovery-call
 role: participant
 participants:
-  - Tyler Doermann
   - Kristen Coleman
 tags:
   - keep-import

@@ -4,8 +4,6 @@ modified: 2024-08-14 14:53
 date: 2024-08-14
 meeting-type: discovery-call
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

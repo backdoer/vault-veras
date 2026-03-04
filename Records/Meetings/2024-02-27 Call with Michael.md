@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Apple Valley Rehab
 role: participant
 participants:
-  - Tyler Doermann
   - Michael
 tags:
   - keep-import

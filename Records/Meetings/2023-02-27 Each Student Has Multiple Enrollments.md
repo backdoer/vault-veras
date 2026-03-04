@@ -5,8 +5,6 @@ date: 2023-02-27
 meeting-type: internal-meeting
 company-name: Veras
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

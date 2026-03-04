@@ -5,8 +5,6 @@ date: 2022-05-19
 meeting-type: customer-call
 company-name: Stanbridge University
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

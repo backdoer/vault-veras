@@ -5,7 +5,6 @@ date: 2024-02-06
 meeting-type: customer-call
 role: participant
 participants:
-  - Tyler Doermann
   - Eduardo
 tags:
   - keep-import

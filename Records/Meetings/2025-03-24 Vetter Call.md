@@ -5,8 +5,6 @@ date: 2025-03-24
 meeting-type: customer-call
 company-name: Vetter
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

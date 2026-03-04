@@ -5,8 +5,6 @@ date: 2023-06-06
 meeting-type: customer-call
 company-name: Kenn Garff
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

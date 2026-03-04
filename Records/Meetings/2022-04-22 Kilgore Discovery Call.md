@@ -5,8 +5,6 @@ date: 2022-04-22
 meeting-type: discovery-call
 company-name: Kilgore
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

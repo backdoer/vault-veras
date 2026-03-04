@@ -6,7 +6,6 @@ meeting-type: investor-meeting
 company-name: Openview
 role: participant
 participants:
-  - Tyler Doermann
   - Ben Zimmer
   - Sam
   - Tim

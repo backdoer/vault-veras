@@ -6,7 +6,6 @@ meeting-type: vendor-call
 company-name: Amy Amman Consulting
 role: participant
 participants:
-  - Tyler Doermann
   - Amy Amman
 tags:
   - keep-import

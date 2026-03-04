@@ -5,8 +5,7 @@ date: 2024-02-16
 meeting-type: customer-call
 role: participant
 participants:
-  - Tyler Doermann
-  - Brian
+  - Brian Lankanese
 tags:
   - keep-import
 ---

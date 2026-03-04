@@ -5,8 +5,6 @@ date: 2024-01-29
 meeting-type: customer-call
 company-name: PACS
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

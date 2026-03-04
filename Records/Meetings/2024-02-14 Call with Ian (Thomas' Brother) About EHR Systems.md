@@ -6,7 +6,6 @@ meeting-type: vendor-call
 company-name: Tendo
 role: participant
 participants:
-  - Tyler Doermann
   - Ian
 tags:
   - keep-import

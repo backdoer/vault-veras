@@ -6,7 +6,6 @@ meeting-type: 1-on-1
 company-name: Veras
 role: manager
 participants:
-  - Tyler Doermann
   - Elliott
 tags:
   - keep-import

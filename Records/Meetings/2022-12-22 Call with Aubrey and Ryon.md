@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: DTC
 role: participant
 participants:
-  - Tyler Doermann
   - Aubrey
   - Ryon
 tags:

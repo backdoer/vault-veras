@@ -2,11 +2,10 @@
 created: 2024-02-09 16:06
 modified: 2024-02-09 17:44
 date: 2024-02-09
-meeting-type: customer-call
+meeting-type: discovery-call
 role: participant
 participants:
-  - Tyler Doermann
-  - Brian
+  - Brian Lankanese
 tags:
   - keep-import
 ---

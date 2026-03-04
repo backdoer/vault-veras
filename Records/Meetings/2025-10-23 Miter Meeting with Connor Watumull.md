@@ -6,7 +6,6 @@ meeting-type: vendor-call
 company-name: Miter
 role: participant
 participants:
-  - Tyler Doermann
   - Connor Watumull
 tags:
   - keep-import

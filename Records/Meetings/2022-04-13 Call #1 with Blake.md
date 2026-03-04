@@ -6,7 +6,6 @@ meeting-type: interview
 company-name: Veras
 role: participant
 participants:
-  - Tyler Doermann
   - Blake Simkins
 tags:
   - keep-import

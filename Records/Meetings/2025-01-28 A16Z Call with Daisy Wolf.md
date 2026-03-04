@@ -6,7 +6,6 @@ meeting-type: investor-meeting
 company-name: A16Z
 role: participant
 participants:
-  - Tyler Doermann
   - Ben Zimmer
   - Daisy Wolf
 tags:

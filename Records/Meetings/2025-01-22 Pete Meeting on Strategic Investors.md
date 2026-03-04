@@ -6,7 +6,6 @@ meeting-type: investor-meeting
 company-name: NFX
 role: participant
 participants:
-  - Tyler Doermann
   - Ben Zimmer
   - Pete Flint
 tags:

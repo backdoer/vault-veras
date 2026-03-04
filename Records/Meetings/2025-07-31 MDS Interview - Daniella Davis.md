@@ -5,7 +5,6 @@ date: 2025-07-31
 meeting-type: discovery-call
 role: participant
 participants:
-  - Tyler Doermann
   - Daniella Davis
   - Deirdre
 tags:

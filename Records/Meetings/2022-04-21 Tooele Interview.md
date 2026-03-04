@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Tooele
 role: participant
 participants:
-  - Tyler Doermann
   - Kim
 tags:
   - keep-import

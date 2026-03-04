@@ -5,7 +5,6 @@ date: 2023-11-06
 meeting-type: customer-call
 role: participant
 participants:
-  - Tyler Doermann
   - Peter
 tags:
   - keep-import

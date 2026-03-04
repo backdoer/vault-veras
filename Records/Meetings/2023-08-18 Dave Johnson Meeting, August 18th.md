@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: ASE
 role: participant
 participants:
-  - Tyler Doermann
   - Dave Johnson
   - Rebecca
 tags:

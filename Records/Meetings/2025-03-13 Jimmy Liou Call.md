@@ -5,7 +5,6 @@ date: 2025-03-13
 meeting-type: vendor-call
 role: participant
 participants:
-  - Tyler Doermann
   - Jimmy Liou
 tags:
   - keep-import

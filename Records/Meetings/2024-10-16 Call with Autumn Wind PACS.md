@@ -5,8 +5,6 @@ date: 2024-10-16
 meeting-type: customer-call
 company-name: Autumn Wind
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

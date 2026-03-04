@@ -5,7 +5,6 @@ date: 2024-02-16
 meeting-type: customer-call
 role: participant
 participants:
-  - Tyler Doermann
   - Kandace
 tags:
   - keep-import

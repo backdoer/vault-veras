@@ -5,7 +5,6 @@ date: 2024-05-24
 meeting-type: customer-call
 role: participant
 participants:
-  - Tyler Doermann
   - Melanie
 tags:
   - keep-import

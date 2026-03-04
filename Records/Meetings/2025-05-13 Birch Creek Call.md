@@ -5,8 +5,6 @@ date: 2025-05-13
 meeting-type: customer-call
 company-name: Birch Creek
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

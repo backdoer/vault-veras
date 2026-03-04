@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Stellar
 role: participant
 participants:
-  - Tyler Doermann
   - Vanessa
   - Karen
   - Tina

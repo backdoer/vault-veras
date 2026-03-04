@@ -5,8 +5,6 @@ date: 2022-06-01
 meeting-type: conference
 company-name: ASE
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

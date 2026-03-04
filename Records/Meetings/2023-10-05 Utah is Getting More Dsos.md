@@ -4,8 +4,6 @@ modified: 2023-10-05 18:21
 date: 2023-10-05
 meeting-type: customer-call
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

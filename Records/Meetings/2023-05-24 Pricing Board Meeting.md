@@ -6,9 +6,9 @@ meeting-type: board-meeting
 company-name: Veras
 role: participant
 participants:
-  - Tyler Doermann
   - Ben Zimmer
   - Pete Flint
+  - Brian Bolnick
 tags:
   - keep-import
 ---

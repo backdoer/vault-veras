@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Vetter
 role: participant
 participants:
-  - Tyler Doermann
   - Katie
   - Kim
   - Joni

@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Jet Dental
 role: participant
 participants:
-  - Tyler Doermann
   - Jenn
 tags:
   - keep-import

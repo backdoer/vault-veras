@@ -5,7 +5,6 @@ date: 2025-09-04
 meeting-type: discovery-call
 role: participant
 participants:
-  - Tyler Doermann
   - Deirdre
 tags:
   - keep-import

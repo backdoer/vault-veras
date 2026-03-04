@@ -5,8 +5,6 @@ date: 2024-11-15
 meeting-type: vendor-call
 company-name: Aline
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

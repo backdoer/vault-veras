@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Skylake
 role: participant
 participants:
-  - Tyler Doermann
   - Calista
   - Amanda
 tags:

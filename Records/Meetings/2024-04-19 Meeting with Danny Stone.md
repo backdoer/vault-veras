@@ -5,7 +5,6 @@ date: 2024-04-19
 meeting-type: customer-call
 role: participant
 participants:
-  - Tyler Doermann
   - Danny Stone
 tags:
   - keep-import

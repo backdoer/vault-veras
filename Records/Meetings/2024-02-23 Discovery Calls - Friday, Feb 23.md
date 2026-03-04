@@ -5,7 +5,6 @@ date: 2024-02-23
 meeting-type: discovery-call
 role: participant
 participants:
-  - Tyler Doermann
   - Kaiden
 tags:
   - keep-import

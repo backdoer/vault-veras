@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Silverado
 role: participant
 participants:
-  - Tyler Doermann
   - Stephanie
   - Donna
   - Beth

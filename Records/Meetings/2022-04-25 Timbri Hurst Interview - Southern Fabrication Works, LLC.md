@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Southern Fabrication Works
 role: participant
 participants:
-  - Tyler Doermann
   - Timbri Hurst
 tags:
   - keep-import

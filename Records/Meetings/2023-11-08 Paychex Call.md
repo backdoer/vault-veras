@@ -5,8 +5,6 @@ date: 2023-11-08
 meeting-type: vendor-call
 company-name: Paychex
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

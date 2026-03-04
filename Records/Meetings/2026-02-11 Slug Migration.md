@@ -5,8 +5,6 @@ date: 2026-02-11
 meeting-type: architecture
 company-name: Veras
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

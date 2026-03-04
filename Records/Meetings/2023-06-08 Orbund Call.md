@@ -5,8 +5,6 @@ date: 2023-06-08
 meeting-type: vendor-call
 company-name: Orbund
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

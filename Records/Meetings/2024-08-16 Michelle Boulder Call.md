@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Boulder
 role: participant
 participants:
-  - Tyler Doermann
   - Michelle
 tags:
   - keep-import

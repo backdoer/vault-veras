@@ -6,7 +6,6 @@ meeting-type: vendor-call
 company-name: Workstream
 role: participant
 participants:
-  - Tyler Doermann
   - Jamie Dyra
 tags:
   - keep-import

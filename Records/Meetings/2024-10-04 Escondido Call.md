@@ -5,8 +5,6 @@ date: 2024-10-04
 meeting-type: customer-call
 company-name: Escondido
 role: participant
-participants:
-  - Tyler Doermann
 tags:
   - keep-import
 ---

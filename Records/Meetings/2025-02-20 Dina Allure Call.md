@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: Allure
 role: participant
 participants:
-  - Tyler Doermann
   - Dina
 tags:
   - keep-import

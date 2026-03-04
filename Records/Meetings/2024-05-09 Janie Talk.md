@@ -6,7 +6,6 @@ meeting-type: internal-meeting
 company-name: Veras
 role: participant
 participants:
-  - Tyler Doermann
   - Ben Zimmer
   - Janie
 tags:

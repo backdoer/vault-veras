@@ -6,7 +6,6 @@ meeting-type: customer-call
 company-name: PACS
 role: participant
 participants:
-  - Tyler Doermann
   - PJ
 tags:
   - keep-import

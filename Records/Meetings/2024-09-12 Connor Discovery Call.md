@@ -6,7 +6,6 @@ meeting-type: discovery-call
 company-name: PACS
 role: participant
 participants:
-  - Tyler Doermann
   - Connor
 tags:
   - keep-import
