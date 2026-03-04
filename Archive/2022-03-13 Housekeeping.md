@@ -1,0 +1,72 @@
+---
+created: 2021-10-27 15:51
+modified: 2022-03-13 00:14
+date: 2022-03-13
+tags:
+  - keep-import
+---
+
+# Housekeeping
+
+- [ ] Fix cron job logs
+- [ ] Error log alerts & fix current red herring error logs
+- [ ] Add click and action level analytics
+- [ ] Dependency management?
+- [ ] APM 
+- [ ] Health checks (SSL)
+- [ ] E2E tests...? 
+- [ ] Email validation through sendgrid?
+- [ ] Keep job listing and user job categories in sync?
+- [x] STech
+- [x] Casper school
+- [x] Remove bank transactions modal
+- [x] Finalize equity situation
+- [x] Look into Priyanka bug
+- [x] Look into invoice reminder bug
+- [x] Clean house
+- [x] Change Intercom card on file
+- [x] V1 job sharing
+- [x] Make sure we're not getting overcharged by wavv
+- [x] Get questions answered by wavv
+- [x] School styles from Paul
+- [x] Maybe make our landing page our home page
+- [x] Figure out daily logrotate crons
+- [x] See if we can hide/disable the profile type select in onboarding
+- [x] Look into other themes or ideas around home page styles
+- [x] Account claim process
+- [x] Some copy on value added per stakeholder on account selection page
+- [x] Forgot password functionality is wonky
+- [x] Make logos clickable from login and account creation
+- [x] Ensure super vesting rights - “without cause”
+- [x] Consider timing as part of strategy - recruiting season, etc. 
+- [x] Clean up budget
+- [x] Look into cheaper options than kinsta
+- [x] Settle on wavv agreement
+- [x] Document all WP source changes and look into alternate ways 
+- [x] Auth logic for school job boards
+- [x] Fetch schools for job posting selection
+- [x] Changing date add to date subtraction for expiration noti
+- [x] Walker for category dropdown
+- [x] Don't pull name from user meta in application defaults
+- [x] The entire embedded job board plugin
+- [x] Set up replication on mysql rep server and auto-refresh and whitelist tableau IPs 
+- [x] job boards all throughout the job manager plugin
+- [x] Make plans for Sasha's departure 
+- [x] Get DB backups into s3
+- [x] Get monitoring in place! Data Dog? Domo? 
+- [x] Memory/CPU/Storage
+- [x] Analytics 
+- [x] Logs 
+- [x] Get new Wavv key over more secure medium 
+- [x] Update plugins/wordpress
+- [x] Update memberpress plugin
+- [x] Prevent brute force password attacks on login
+- [x] Prevent bots (recaptcha & email validation through sendgrid or neverbounce)
+- [x] Scrub mysql rep database that gets to tableau (stripe key, etc.)
+- [x] Email authentication - as sent by sendgrid
+- [x] Hide tyler.jobwise.com a little better or make sure people don't use it
+- [x] back up uploads 
+- [x] Get weekly DB backups in place & confirm all backups working as expected
+- [x] Alerts to slack 
+- [x] Double check usage and pricing on everything!
+- [x] Send admin email when boosts are bought or job is boosted or job is posted, etc.

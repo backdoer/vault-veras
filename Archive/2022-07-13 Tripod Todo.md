@@ -1,0 +1,91 @@
+---
+created: 2022-06-08 02:38
+modified: 2022-07-13 16:50
+date: 2022-07-13
+tags:
+  - keep-import
+---
+
+# Tripod Todo
+
+- [ ] Test Websockets after deploy 
+- [ ] Figure out next feature priorities
+- [ ] Static asset management
+- [ ] Add analytics
+- [ ] Cypress tests
+- [ ] Util tests
+- [ ] Add hubspot chat widget
+- [ ] Abstract components away 
+- [ ] Fix up README
+- [ ] Add address from Google to outcome forms and allow non-Google entries
+- [ ] Mentions
+- [ ] Wire up bell notifications
+- [ ] Digest email notifications
+- [ ] Add attachments to notes and outcomes
+- [ ] Notification preferences
+- [ ] Audit trail? (who did updates? - could also be used to source notifications and events)
+- [ ] Default Google Places recs to near campus
+- [ ] Clean up websockets
+- [ ] Remove global io state
+- [ ] Side effect of sending socket update from model
+- [ ] Get server watch working
+- [ ] useEffect removed from assignment select
+- [ ] Fetch and create (messages and notes) both have to maintain the same contract in 2 places
+- [ ] Server using app code (coupled)
+- [ ] Licensure
+- [ ] Infinite scroll
+- [ ] Desktop notis and sounds
+- [ ] Failed and pending message handling
+- [ ] Ghost/Loading state
+- [ ] Better filter checkbox state handling
+- [ ] Include text templates for emails
+- [x] Study Typescript 
+- [x] Make VIM typescript compatible
+- [x] Fix messaging height 
+- [x] Fix notifications name header 
+- [x] Fix notifications wrapper height on small screen 
+- [x] Fix radio buttons to be in line with Blake’s designs 
+- [x] Simply sort enrollments by date and take top one (need to group by...)
+- [x] Learn how to SSH & access DB
+- [x] Look into pk and fk options
+- [x] Make enrollment a 1:1 relationship with student for now?
+- [x] Wire up avatars
+- [x] Wire up notes
+- [x] Wire up assignment
+- [x] Wire up outcome button
+- [x] Wire up outcomes
+- [x] Wire up message notis 
+- [x] Make Outcome displays "Allowable Subtractions"
+- [x] Wire up outcome writes
+- [x] Figure out why assignment select acts weird after form submission and why the state is persisting across links... (click on message)
+- [x] Student note school permissions
+- [x] Change notes to fetcher form
+- [x] Button up patterns around prisma type imports
+- [x] Fix message date logic that's doing weird stuff with messages
+- [x] Fix mobile heights on student details page
+- [x] Confirm logic around what notifications people should get and display of noti window
+- [x] Add GMB API
+- [x] Add school lookup API
+- [x] Wire up assignment writes
+- [x] Wire up note writes
+- [x] Date Filter of Some Sort
+- [x] Wire up message writes
+- [x] Hook up twilio
+- [x] Websockets messages
+- [x] Websockets message notifications
+- [x] Filter notification lists to relevant (assigned to me or not assigned)
+- [x] Filters
+- [x] Allow going back to table from details view
+- [x] Temporary vs. Permanent Health Related
+- [x] Start date of job
+- [x] FIX WEIRD REFETCH ISSUE WITH WEBSOCKET UNREAD MESSAGES!!
+- [x] Real-time email notifications
+- [x] Fix risk of double button clicks (message, note, etc.)
+- [x] Fix startDate issue on "Further Education" with no current outcome
+- [x] Fix weird start date time zone issue (make time noon)
+- [x] Make email date dynamic
+- [x] Export
+- [x] Rename to "Gravity"
+- [x] Websockets notes?
+- [x] Fix browser warnings
+- [x] Fix height hacks
