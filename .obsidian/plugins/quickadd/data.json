@@ -1,5 +1,108 @@
 {
-  "choices": [],
+  "choices": [
+    {
+      "id": "meeting-template-choice",
+      "name": "New Meeting",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Meeting.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}} {{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Records/Meetings"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical"
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "plan-template-choice",
+      "name": "New Plan",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Plan.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}} {{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Records/Plans"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical"
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "journal-template-choice",
+      "name": "New Journal",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Journal.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}} {{VALUE}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Records/Journal"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical"
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    }
+  ],
   "inputPrompt": "single-line",
   "persistInputPromptDrafts": true,
   "useSelectionAsCaptureValue": true,
