@@ -1,36 +1,32 @@
+# Architecture Plans
 
-Time off:
-- keep the current start and end as dates 
-    - probably rename to startDate and endDate
-- add new fields for time (start and end)
-- Then we won’t have to refactor the current way of using the whole day. It’d be additive. 
-- Potentially only allow the new way for people on our time and attendance/time off product. 
+## Service Architecture
 
+- Remix continues as the BFF layer indefinitely
+- Backend services can be extracted as needed for isolation or language flexibility
+- Extracted services can share the same single-tenant databases, pooled through PgBouncer
 
-Multiple services:
-- remix can continue to act as the bff forever 
-- we could pull out certain backend functionality if we want to isolate it or write it in a different language. We could also share the same single tenant databases and pool with pgbouncer. 
+## Node Performance
 
-  
-Node (CPU):
-- add an abstraction around worker threads to be able to utilize multiple CPUs and offload intensive tasks to a different thread (worker threads)
-- node clinic
+- Abstract worker threads to offload CPU-intensive tasks off the main thread
+- Use Node Clinic for profiling and identifying bottlenecks
 
-  
-Databases:
-- Core
-    - Put the majority of reads in Redis
-- Reporting
-    - Move to its own postgres DB and scale reads with replicas
-    - Time partitioning
-- Integrations
-   - Could move to Dynamo
-   - Could clear more often
-   - etc.
+## Database Strategy
 
-- Tenant
-   - Spread out load across multiple databases
-   - Single-tenant for some customers
-   - Time partitioning
+### Core
+- Cache the majority of reads in Redis
 
-Could always add custom web url to shard if we want to do single tenant web
+### Reporting
+- Migrate to a dedicated Postgres instance
+- Scale reads with replicas
+- Implement time partitioning
+
+### Integrations
+- Evaluate moving to DynamoDB for better write scaling
+- Implement more aggressive data retention / cleanup cycles
+
+### Tenant Isolation
+- Distribute load across multiple databases
+- Offer single-tenant databases for large customers
+- Apply time partitioning for historical data
+- Option: custom web URL per shard for full single-tenant deployments
