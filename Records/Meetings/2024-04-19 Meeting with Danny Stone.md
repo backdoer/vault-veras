@@ -7,8 +7,8 @@ role: participant
 participants:
   - Danny Stone
 tags:
-  - keep-import
----
+  -
+
 
 # Meeting with Danny Stone
 

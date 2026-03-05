@@ -32,6 +32,7 @@ Junior Software Engineer. Reports to Tyler. Still ramping up but excited to keep
 
 ## Compensation Notes
 
+- Base salary: $85,000 (bumped from $70k on 2026-03-04)
 - Prefers cash bumps over equity at this stage
 
 ## Strengths

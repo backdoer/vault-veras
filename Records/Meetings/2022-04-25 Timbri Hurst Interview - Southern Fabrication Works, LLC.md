@@ -8,8 +8,8 @@ role: participant
 participants:
   - Timbri Hurst
 tags:
-  - keep-import
----
+  -
+
 
 # Timbri Hurst Interview - Southern Fabrication Works, LLC
 

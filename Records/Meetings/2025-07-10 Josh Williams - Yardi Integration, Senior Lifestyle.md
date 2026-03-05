@@ -8,8 +8,8 @@ role: participant
 participants:
   - Josh Williams
 tags:
-  - keep-import
----
+  -
+
 
 # Josh Williams - Yardi Integration, Senior Lifestyle
 

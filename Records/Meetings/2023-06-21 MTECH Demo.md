@@ -6,8 +6,8 @@ meeting-type: customer-call
 company-name: MTECH
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # MTECH Demo
 

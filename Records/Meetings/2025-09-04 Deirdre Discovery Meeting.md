@@ -7,8 +7,8 @@ role: participant
 participants:
   - Deirdre
 tags:
-  - keep-import
----
+  -
+
 
 # Deirdre Discovery Meeting
 

@@ -4,8 +4,8 @@ modified: 2023-10-04 19:37
 date: 2023-10-04
 journal-type: reflection
 tags:
-  - keep-import
----
+  -
+
 
 # Lunch with Ryan from Nursa
 

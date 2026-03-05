@@ -6,8 +6,8 @@ meeting-type: vendor-call
 company-name: Aline
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Call with Aline
 

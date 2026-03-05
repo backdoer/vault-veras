@@ -4,8 +4,8 @@ modified: 2022-10-28 17:52
 date: 2022-10-28
 journal-type: reflection
 tags:
-  - keep-import
----
+  -
+
 
 # Paul Thoughts
 

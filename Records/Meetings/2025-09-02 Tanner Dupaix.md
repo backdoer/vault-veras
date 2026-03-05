@@ -8,8 +8,8 @@ role: participant
 participants:
   - Tanner Dupaix
 tags:
-  - keep-import
----
+  -
+
 
 # Tanner Dupaix
 

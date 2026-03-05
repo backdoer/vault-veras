@@ -2,12 +2,12 @@
 created: 2025-12-11 23:21
 modified: 2026-02-07 06:22
 date: 2026-02-07
-meeting-type: architecture
+plan-type: project
 company-name: Veras
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Single Tenant Migration
 

@@ -8,8 +8,8 @@ role: participant
 participants:
   - Dane Smart
 tags:
-  - keep-import
----
+  -
+
 
 # Dane Smart - Sunrise AL
 

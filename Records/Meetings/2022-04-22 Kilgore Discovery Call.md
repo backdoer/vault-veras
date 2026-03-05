@@ -6,8 +6,8 @@ meeting-type: discovery-call
 company-name: Kilgore
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Kilgore Discovery Call
 

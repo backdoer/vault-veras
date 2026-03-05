@@ -6,8 +6,8 @@ meeting-type: customer-call
 company-name: Escondido
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Escondido Call
 

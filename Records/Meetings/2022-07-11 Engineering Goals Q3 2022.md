@@ -6,8 +6,8 @@ meeting-type: internal-meeting
 company-name: Veras
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Engineering Goals Q3 2022
 

@@ -6,8 +6,8 @@ meeting-type: customer-call
 company-name: Autumn Wind
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Call with Autumn Wind PACS
 

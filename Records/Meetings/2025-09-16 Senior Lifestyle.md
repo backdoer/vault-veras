@@ -6,8 +6,8 @@ meeting-type: customer-call
 company-name: Senior Lifestyle
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Senior Lifestyle
 

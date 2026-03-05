@@ -7,8 +7,8 @@ role: participant
 participants:
   - Kristen Coleman
 tags:
-  - keep-import
----
+  -
+
 
 # Kristen Coleman Discovery Call
 

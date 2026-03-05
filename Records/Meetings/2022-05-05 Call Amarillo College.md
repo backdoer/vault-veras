@@ -6,8 +6,8 @@ meeting-type: customer-call
 company-name: Amarillo College
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Call Amarillo College
 

@@ -6,8 +6,8 @@ meeting-type: architecture
 company-name: Veras
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Slug Migration
 

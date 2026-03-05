@@ -8,8 +8,8 @@ role: participant
 participants:
   - Ben Zimmer
 tags:
-  - keep-import
----
+  -
+
 
 # November 15th Leadership Meeting
 

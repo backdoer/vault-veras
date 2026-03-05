@@ -4,8 +4,8 @@ modified: 2025-01-22 21:59
 date: 2025-01-22
 journal-type: reflection
 tags:
-  - keep-import
----
+  -
+
 
 # Genetic Algorithm Ideas
 

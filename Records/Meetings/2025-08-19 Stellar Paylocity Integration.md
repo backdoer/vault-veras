@@ -6,8 +6,8 @@ meeting-type: customer-call
 company-name: Stellar
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Stellar Paylocity Integration
 

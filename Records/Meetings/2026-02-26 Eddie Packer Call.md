@@ -8,8 +8,8 @@ role: participant
 participants:
   - Eddie Packer
 tags:
-  - keep-import
----
+  -
+
 
 # Eddie Packer Call
 

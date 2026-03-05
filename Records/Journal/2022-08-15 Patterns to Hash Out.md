@@ -4,8 +4,8 @@ modified: 2022-08-15 20:04
 date: 2022-08-15
 journal-type: reflection
 tags:
-  - keep-import
----
+  -
+
 
 # Patterns to Hash Out
 

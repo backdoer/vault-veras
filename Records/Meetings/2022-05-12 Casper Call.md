@@ -6,8 +6,8 @@ meeting-type: customer-call
 company-name: Casper
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Casper Call
 

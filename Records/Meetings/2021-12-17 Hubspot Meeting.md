@@ -6,8 +6,8 @@ meeting-type: vendor-call
 company-name: HubSpot
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Hubspot Meeting
 

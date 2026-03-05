@@ -6,8 +6,8 @@ meeting-type: customer-call
 company-name: Kenn Garff
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Kenn Garff Questions
 

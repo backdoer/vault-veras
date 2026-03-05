@@ -6,8 +6,8 @@ meeting-type: customer-call
 company-name: Birch Creek
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Birch Creek Call
 

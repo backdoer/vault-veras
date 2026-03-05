@@ -6,8 +6,8 @@ meeting-type: vendor-call
 company-name: Orbund
 role: participant
 tags:
-  - keep-import
----
+  -
+
 
 # Orbund Call
 

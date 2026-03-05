@@ -8,8 +8,8 @@ role: participant
 participants:
   - Jose
 tags:
-  - keep-import
----
+  -
+
 
 # TSTC Interview with Jose - 05 18
 

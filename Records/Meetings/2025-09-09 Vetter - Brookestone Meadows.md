@@ -12,8 +12,8 @@ participants:
   - Kathie
   - Sherry
 tags:
-  - keep-import
----
+  -
+
 
 # Vetter - Brookestone Meadows
 

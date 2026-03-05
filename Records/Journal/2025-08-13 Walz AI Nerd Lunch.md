@@ -4,8 +4,8 @@ modified: 2025-08-13 19:30
 date: 2025-08-13
 journal-type: reflection
 tags:
-  - keep-import
----
+  -
+
 
 # Walz AI Nerd Lunch
 

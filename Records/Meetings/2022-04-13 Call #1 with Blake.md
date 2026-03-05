@@ -8,8 +8,8 @@ role: participant
 participants:
   - Blake Simkins
 tags:
-  - keep-import
----
+  -
+
 
 # Call #1 with Blake Simkins
 
